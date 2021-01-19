@@ -124,7 +124,7 @@ It does this with Google Analytics, which sends data back
 to Google whenever someone visits a web site. From this
 and other data, Google makes a proﬁle about the person,
 which it then uses to ﬁgure out which advertisements to
-show.
+display.
 
 3 The name “Google”
 
